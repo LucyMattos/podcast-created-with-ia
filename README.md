@@ -4,13 +4,13 @@
 
 # "Café com Algoritmo - Sua dose de diária de tecnologia, dicas e novidades do Mundo Digital"
 Projeto Podcast Gerado 100% por I.A.s com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts assertivos.
-O tema deste episódio do podcast: “Como a tecnologia pode ajudar pessoas iletradas em seu dia a dia?”
+<br>Tema deste episódio do podcast: “Como a tecnologia pode ajudar pessoas iletradas em seu dia a dia?”
 
 
 ## 🚀 Resultados
 Este episódio do podcast de 3 minutos utiliza Inteligência Artificial para transmitir de maneira clara e objetiva como a tecnologia pode transformar a vida de pessoas iletradas, promovendo inclusão e acessibilidade.
 
-[FAÇA O DOWNLOAD E  OUÇA O EPISÓDIO AQUI]()
+[FAÇA O DOWNLOAD E  OUÇA O EPISÓDIO AQUI](https://github.com/LucyMattos/podcast-created-with-ia/blob/main/output/resultado_podcast_editado.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
